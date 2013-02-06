@@ -1,0 +1,24 @@
+[submodule "symfony"]
+	path = symfony
+	url = git@github.com:symfony/symfony.git
+[submodule "CodeIgniter"]
+	path = CodeIgniter
+	url = git@github.com:EllisLab/CodeIgniter.git
+[submodule "zf2"]
+	path = zf2
+	url = https://github.com/zendframework/zf2
+[submodule "cakephp"]
+	path = cakephp
+	url = git@github.com:cakephp/cakephp.git
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:laravel/laravel.git
+[submodule "yii"]
+	path = yii
+	url = git@github.com:yiisoft/yii.git
+[submodule "Slim"]
+	path = Slim
+	url = https://github.com/codeguy/Slim
+[submodule "fuel"]
+	path = fuel
+	url = git@github.com:fuel/fuel.git
