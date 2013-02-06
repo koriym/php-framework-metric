@@ -3,12 +3,12 @@
 $frameworks = [
     'cakephp' => 'lib',
     'CodeIgniter' => 'system',
-    'fuel' => 'fuel/packages'
+    'fuel' => 'fuel/packages',
     'laravel' => 'laravel',
     'Slim' => 'Slim',
     'symfony' => 'src',
     'yii' => 'framework',
-    'zf2' => 'library'
+    'zf2' => 'library',
     'bear' => 'src'
 ];
 
